@@ -1,5 +1,5 @@
 ## Versionamento de Códigos Mav
-  Está máteria foca na importância do controle de versões 
+  Está máteria foca na importância do controle de versões \
 utilizando Git e GitHub além de fluxos de trabalho.
 
 ## Sobre mim
