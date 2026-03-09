@@ -1,6 +1,5 @@
 ## Versionamento de Códigos Mav
-
-#Sobre mim
+Foca na importância do controle de versões utilizando Git e GitHub além de fluxos de trabalho.
 
 Meu nome é Marcela, sou estudante de desenvolvimento de sistema na etec.
 
