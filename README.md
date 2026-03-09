@@ -9,8 +9,11 @@
   Sou uma aspirante a artista, toco `contrabaixo acústico`, estou aprendendo a tocar `violão`, desenho no `digital` e no `tradicional`.
 ##
 ##
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFW0NbncSWEnZ83TNSs2LnzrIvoLcDCBU2pw&s" height="150" widht="150" align="right">
+<img src="https://avatars.githubusercontent.com/u/15509280?v=4" height="150" widht="150" align="right">
 
 **Github** 
-  Teste aa a a a a  a a
+
+  Tem vários repositórios legais! \
+  Sim! Isso é uma prograganda de mim mesma!
+
 ##
