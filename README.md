@@ -14,6 +14,7 @@
 **Github** 
 
   Tem vários repositórios legais! \
-  Sim! Isso é uma prograganda de mim mesma!
+  Sim! Isso é uma prograganda de mim mesma!\
+  Só quem sabe, sabe.
 
 ##
