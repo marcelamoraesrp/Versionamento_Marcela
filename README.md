@@ -8,7 +8,6 @@
   Meu nome é Marcela, sou estudante de desenvolvimento de sistema na etec, estou aprendendo `HTML`, `CSS`, `Python`, `JavaScript` e `MySQL`. \
   Sou uma aspirante a artista, toco `contrabaixo acústico`, estou aprendendo a tocar `violão`, desenho no `digital` e no `tradicional`.
 ##
-##
 <img src="https://avatars.githubusercontent.com/u/15509280?v=4" height="150" widht="150" align="right">
 
 **Github** 
